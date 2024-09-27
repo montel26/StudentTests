@@ -1,5 +1,7 @@
 import unittest
 
+from questions import *
+
 class TestPythonProblems(unittest.TestCase):
     
     # Test for Two Sum Problem
